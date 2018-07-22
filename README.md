@@ -26,6 +26,8 @@
 |Pipeline|What this pipeline do|
 |--------|---------------------|
 |setimo-pipeline.conf|POC multiple instances logstash - nice example|
+|setimo-pipeline-2.conf|POC multiple instances logstash - nice example|
+|setimo-pipeline-3.conf|POC multiple instances logstash - nice example|
 |sexto-pipeline.conf|example with elasticsearch, http, grok, mutate, regex, if-else, output to file, output to elasticsearch(if avaiable)|
 |quinto-pipeline.conf|example with http, grok, mutate, regex, if-else, output to file, output to elasticsearch(if avaiable)|
 
