@@ -24,6 +24,7 @@
 
 ## better logstash pipeline  
 
+sexto-pipeline.conf - example with elasticsearch, http, grok, mutate, regex, if-else, output to file, output to elasticsearch(if avaiable)  
 quinto-pipeline.conf - example with http, grok, mutate, regex, if-else, output to file, output to elasticsearch(if avaiable)  
 
 ## TODO
